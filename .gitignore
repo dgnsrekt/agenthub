@@ -1,6 +1,7 @@
 # Binaries
 /agenthub-server
 /ah
+bin/
 
 # Data directory
 data/
